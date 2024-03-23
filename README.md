@@ -10,5 +10,6 @@ This project is a simple clock implemented using HTML, CSS, and JavaScript. It f
 
 
 
-
+#Live Link
+https://umarsyed22.github.io/clock/
 
