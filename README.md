@@ -2,7 +2,7 @@
 # Digital Clock
 This project is a simple clock implemented using HTML, CSS, and JavaScript. It features a flexible layout designed to work seamlessly on both mobile and desktop devices.
 
-//umar
+
 
 ## Live Link
 Link :
