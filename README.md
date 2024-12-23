@@ -6,7 +6,7 @@ This project is a simple clock implemented using HTML, CSS, and JavaScript. It f
 
 ## Live Link
 Link :
-https://github.com/UMARSYED22
+https://umarsyed22.github.io/clock/
 ## Features
 
 - Displays the current time accurately.
